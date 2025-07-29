@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\neryu\Downloads\Progra 2\Hoja_de_Trabajo_POO\Pilare_POO_hoja_de_trabajo.cs" Link="Pilare_POO_hoja_de_trabajo.cs" />
+  </ItemGroup>
+
 </Project>
